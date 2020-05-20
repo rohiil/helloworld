@@ -14,8 +14,7 @@ These implementations are for learning purposes. They may be less efficient than
 
 ## Contribution Guidelines
 
-Read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute.
-
+Read our [Contribution Guidelines](CONTRIBUT
 ## Community Channel
 
 We're on [Gitter](https://gitter.im/TheAlgorithms)!  Please join us.
